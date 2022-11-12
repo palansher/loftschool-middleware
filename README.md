@@ -1,6 +1,9 @@
 # Middleware в PHP
 Мастер-класс для Loftschool
 
+https://www.youtube.com/watch?v=yMrbatAM3bw
+
+
 ### Установка
 
 ```shell
